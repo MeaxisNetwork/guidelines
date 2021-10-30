@@ -1,17 +1,30 @@
 # 1 · Inappropriate Content
 You are not allowed to post inappropriate content on MeaxisNetwork. Inappropriate content qualifies as content that contains:
 - Insults of all kinds towards people or a group of people,
+- Strong profanity,
 - Discrimination or hate speeches of all kinds,
+- References to sexual subjects or to love,
+- References to terrorism or acts of terror,
 - Threats, blackmail, impersonation,
 - Scamming, phishing, catfishing,
 - Promotion or depiction of self-harm or suicide,
+- Attempt to evade the Guidelines by using vague language,
 - Software or sites with malicious intent, such as viruses, non-consensual cryptocurrency miners, pages/files causing a device to crash or malfunction or IP grabbers
 
 We believe that this content has no place in MeaxisNetwork because MeaxisNetwork. Posting this content may lead to restrictions being applied to your account, such as warnings, mutes, or terminations.
 
 
 # 2 · NSFW content
-NSFW content is in no way allowed on MeaxisNetwork. NSFW is qualified as: pornography.
+NSFW content is in no way allowed on MeaxisNetwork. NSFW is qualified as: gore, pornography, sexual topics.
+Edge-NSFW content, the softer version of NSFW, is not allowed too. Edge-NSFW is qualified as: pictures where private parts of the human body are partially displayed and pictures of people, human-like or antromorphic characters in attractive poses or in revealing under/swimwear.
+
+
+# 3 · Online Dating, Love Roleplaying and Drama
+You are not allowed to talk about love on MeaxisNetwork, use MeaxisNetwork for the sole purpose of finding dating partners, or express your love to someone on MeaxisNetwork. See <!--<a href=\"https://meaxisnetwork.net/support/XX\">dating partners on the MeaxisNetwork <i class=\"fas fa-external-link-alt\"></i></a> for more information.-->
+
+On another note, you are not allowed to ship people on the MeaxisNetwork. You are not allowed to simulate wedding, kisses, and fake parent-to-children relations or couples.
+
+Finally, we do not allow drama as it is bad for a community.
 
 
 # 4 · Non-MeaxisNetwork links
@@ -28,12 +41,22 @@ For the safety of all MeaxisNetwork members, it is forbbiden to talk about the M
 
 
 # 6 · Spam/Flood
+Please do not spam or flood any MeaxisNetwork communication methods such as (but not limited to) comments, feedbacks or the MeaxisNetwork Discord.
+
 Please do not post content where it should not be: feedbacks should be solely used for giving ideas for instance.
 If you answer MeaxisNetwork Surveys, answer correctly to the question(s).
 
 
+# 7 · Freedom of Speech & Inappropriate Topics
+While you are free to speak, please avoid sharing political opinions, religious beliefs, or any offensive opinion. You are allowed to speak freely as long as you are abiding by these guidelines, MeaxisNetwork ToS & not offending anyone & not being a nuisance.
+
+
 # 8 · Asking for a higher status
 We will not give you free MNPs/Coins/MeaxisNetwork Premium/ranks/staff just because you asked to. In fact, asking for these may reduce your chance of getting them AND reduce your citizen score.
+
+
+# 9 · Content meant to annoy or to disturb
+MeaxisNetwork does not allow disturbing or annoying content to be played unless all users have given consent. Example of such files & content are voice changers, soundboards, and media that may induce disgut.
 
 
 # 10 · Language on the MeaxisNetwork
@@ -45,6 +68,9 @@ MeaxisNetwork prohibits the use of other languages than British, Canadian, Austr
 
 
 # 11 · Extra Information
+- Treat people like you would like to be treated
 - Disrespecting the Camera / mothers is the worst thing you can do on MN and will probably lead to instant termination
+- Disrespecting Meaxis is the second worst thing you can do on MN and will too probably lead to instant termination (👀 i_iMikey)
+- Please use common sense. If you doubt if it's allowed or not, it's probably not allowed, but don't hesitate to send us an email at support@meaxisnetwork.net
 - Do not threaten to DDoS/Boot us or any MeaxisNetwork user. DDoSing is not a good thing to do. Seriously.
 - Do you know Meaxis in a real life context? You're not allowed here. The rule is: 3 connections or less to Meaxis == you're out.)
